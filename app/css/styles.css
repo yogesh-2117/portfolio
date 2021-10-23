@@ -1,5 +1,51 @@
 body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Zen Old Mincho', serif;
     font-size: 100%;
-    color:blueviolet;
-    background-color: brown;
 }
+.top-container{
+    padding-top: 100px;
+    position: relative;
+    background-color: #EEB76B;
+
+}
+h1{
+    margin-top: 0;
+    padding: 30px;
+    font-family: 'Pacifico', cursive;
+    font-size: 5.625rem;
+    margin: 0 auto 0 auto;
+}
+h2{
+    
+    font-family: 'Vollkorn', serif;
+    font-size: 2.5rem;
+    margin: 25px;
+}
+h3{
+    font-family: 'Vollkorn', serif;
+    font-size: 1.6rem;
+}
+p{
+    font-family: 'Zen Old Mincho', serif;
+    font-size: 1.5rem;
+}
+.top-cloud{
+    position: absolute;
+    right:500px;
+    top:50px
+}
+    
+.bottom-cloud{
+    position:absolute;
+    left: 500px;
+    bottom: 300px;
+}
+.social-media-handles{
+    width:2%;
+    height: 2%;
+    padding: 8px;
+}
+
+
